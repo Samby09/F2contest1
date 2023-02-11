@@ -16,6 +16,7 @@ function PrintStudentswithMap() {
     console.log(result);
   }
   //PrintStudentswithMap()
+
   function PrintStudentsbyForEach() {
     //Write your code here , just console.log
     arr.forEach((item)=>{
@@ -31,7 +32,7 @@ function PrintStudentswithMap() {
     arr.push({id:4,name:"susan",age:"20",marks:45});
     console.log(arr)
   }
-  addData()
+  //addData()
   
   function removeFailedStudent() {
     //Write your code here, just console.log
